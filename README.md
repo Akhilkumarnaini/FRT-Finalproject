@@ -19,4 +19,21 @@ Azure technologies used for Project
 Static web apps
 Microsoft Azure Portal
 
+screenshots
+ HOME -
+ ![HOME](https://github.com/Akhilkumarnaini/FRT-Finalproject/assets/134483419/4fc9ded2-4baa-4ddf-a0e2-e6a316335b8a)
+ABOUT US -
+![about us](https://github.com/Akhilkumarnaini/FRT-Finalproject/assets/134483419/824b8b31-b25e-47ea-9308-774b187e2464)
+CLASSES -
+![classes](https://github.com/Akhilkumarnaini/FRT-Finalproject/assets/134483419/33ef88e7-e5dd-4156-a220-69d52ad450de)
+CONTACT US -
+![contact us](https://github.com/Akhilkumarnaini/FRT-Finalproject/assets/134483419/4e0c879b-0061-4b9b-be01-d1077254d7b3)
+
+Tech Stack 💻
+Azure(Hosting)
+HTML
+CSS
+Bootstrap
+JavaScript
+
 
